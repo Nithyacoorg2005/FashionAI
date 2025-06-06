@@ -1,4 +1,5 @@
    FashionAI 
+   Online view:https://fashionainithya.netlify.app/
 
 FashionAI is an intelligent fashion companion website designed to help users discover the best fashion choices through personalized AI recommendations. It combines style analysis, smart filters, and virtual try-ons to make fashion shopping and styling smarter and more enjoyable.
 
