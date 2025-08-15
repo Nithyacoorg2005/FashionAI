@@ -15,7 +15,7 @@ FashionAI is an intelligent fashion companion website designed to help users dis
 -   Search & Filters  — Advanced filters for budget, sustainability, and more.
 -  Buy or Save  — Add to cart, wishlist, or get styling tips before purchase.
 
-   🚀 Tech Stack
+    Tech Stack
 
 -  Frontend : React.js, Tailwind CSS, Framer Motion
 -  Backend : Node.js, Express
